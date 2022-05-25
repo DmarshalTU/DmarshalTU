@@ -1,5 +1,5 @@
 # Hi there 👋
-!](WhatsApp Image 2022-05-25 at 12.25.24 PM.jpeg)
+![CodeWizard](cw.png)
 
 <!--
 **DmarshalTU/DmarshalTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
