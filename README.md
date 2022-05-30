@@ -3,7 +3,7 @@
 
 ## 🔭 I’m currently working on ...
 
-[![wakatime](https://wakatime.com/badge/user/a33e6173-6cd7-4c00-9273-02ccdef053ee/project/3216e9f9-6840-44ad-9973-9831d1767d57.svg)](https://wakatime.com/badge/user/a33e6173-6cd7-4c00-9273-02ccdef053ee/project/3216e9f9-6840-44ad-9973-9831d1767d57)
+[![wakatime](https://wakatime.com/badge/github/DmarshalTU/velero_k8s_aws.svg)](https://wakatime.com/badge/github/DmarshalTU/velero_k8s_aws)
 
 <!--
 **DmarshalTU/DmarshalTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
