@@ -2,7 +2,7 @@
 ![CodeWizard](cw.png)
 ![](https://komarev.com/ghpvc/?username=DmarshalTU&color=green)
 
-[Medium](https://medium.com/@denismarshalltumakov)
+[Bento](bento.me/dmarshaltu)
 
 
 
